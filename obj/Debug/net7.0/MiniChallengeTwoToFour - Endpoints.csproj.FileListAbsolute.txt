@@ -1,0 +1,33 @@
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\bin\Debug\net7.0\appsettings.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\bin\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.exe
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\bin\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.deps.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\bin\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.runtimeconfig.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\bin\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\bin\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.pdb
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.csproj.AssemblyReference.cache
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.AssemblyInfoInputs.cache
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.AssemblyInfo.cs
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.csproj.CoreCompileInputs.cache
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.MiniChallengeTwoToFour - Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.build.MiniChallengeTwoToFour - Endpoints.props
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MiniChallengeTwoToFour - Endpoints.props
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MiniChallengeTwoToFour - Endpoints.props
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\scopedcss\bundle\MiniChallengeTwoToFour - Endpoints.styles.css
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.csproj.CopyComplete
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\refint\MiniChallengeTwoToFour - Endpoints.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.pdb
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\MiniChallengeTwoToFour - Endpoints.genruntimeconfig.cache
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeTwoToFour - Endpoints\obj\Debug\net7.0\ref\MiniChallengeTwoToFour - Endpoints.dll
